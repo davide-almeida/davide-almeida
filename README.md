@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @davide-almeida
+- I’m a ruby on rails developer
